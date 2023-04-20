@@ -1,10 +1,11 @@
 {
+    "description": "Personal Website",
+    "repo": "https://github.com/multikitty/multikitty.github.io",
     "owner": {
         "username": "multikitty",
-        "email": "multikitty422@gmail.com"
+        "email": "multikitty422@gmail.com",
     },
-
     "record": {
-        "A": [""]
+        "CNAME": "multikitty.github.io"
     }
 }
